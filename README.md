@@ -1,5 +1,8 @@
 # Indeed Job Analysis
 
+![download](https://github.com/user-attachments/assets/e542275b-e5c5-44f6-b180-58e201871cbe)
+
+
 ## Project Overview
 
 The **Indeed Job Analysis** project aims to gather and analyze job postings from Indeed.com to provide insights into job trends, skills requirements, and salary distributions. Using web scraping, we collected data from Indeed's job listings, followed by exploratory data analysis (EDA) to extract meaningful insights. This project helps job seekers, recruiters, and analysts understand the current job market better.
